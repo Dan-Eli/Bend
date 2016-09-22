@@ -1,10 +1,1 @@
-Rotuine AA
-code AA
-
-Rotuine BB
-code B
-
-Rotuine CC
-code CCC
-Un autre routine
-Le code
+print 45
