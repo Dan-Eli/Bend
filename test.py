@@ -1,1 +1,3 @@
-print 45
+#!/usr/bin/env python
+
+print "Coco"
