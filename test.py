@@ -5,3 +5,4 @@ print 45
 print 46
 print 47
 print 48
+print 40
