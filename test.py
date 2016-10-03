@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-print "Coco1"
+print "Coco"
 print 45
 print 46
 print 47
