@@ -8,4 +8,5 @@ print 48
 print 40
 print 40
 print 42
-print " OKBend 2 a"
+print "Bend 2 a"
+print "coco1"
